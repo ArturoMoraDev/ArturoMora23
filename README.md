@@ -1,4 +1,4 @@
-## Hey! I'm Welcome. 👋🏽
+## Hey! Welcome. 👋🏽
 ![Arturo-Mora-GitHub](https://user-images.githubusercontent.com/68920446/126368040-4aa59ea5-305d-4dbe-a694-262d4e74b11e.jpg)
 
 ### 🌐 You can find me on:
