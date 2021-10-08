@@ -2,7 +2,7 @@
 ![Arturo-Mora-GitHub](https://user-images.githubusercontent.com/68920446/126368040-4aa59ea5-305d-4dbe-a694-262d4e74b11e.jpg)
 
 ### 🌐 You can find me on:
-- [Wep Page](https://arturomora21.github.io/arturomora/)
+- [Wep Page](https://arturomora21.github.io/)
 - [Twitter](https://twitter.com/ArturoMora_22)
 - [Instagram](https://www.instagram.com/arturomora.22/)
 - [Facebook](https://www.facebook.com/arturoalfredo.moraperez)
