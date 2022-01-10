@@ -14,7 +14,7 @@
   <img align="center" alt="Icon-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <!-- <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   <!-- <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="right" alt="Arturo-Cartoon" height="150" style="border-radius: 50px;" src="https://scontent.fclo7-1.fna.fbcdn.net/v/t39.30808-6/222040688_5037152172966881_5585555445384936934_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF0eqoxgtORoH7I5qA5GqrGpChNKC5MQN2kKE0oLkxA3YibeJB_gotasLE_ClDLsq7Z9dNBdu4D09PeeJAZPL51&_nc_ohc=-jAxzfyx2pMAX_GCO5F&_nc_ht=scontent.fclo7-1.fna&oh=00_AT9hBcByfC_7jbhV_tmJi7PNSipuZsjJvmGo-qLzxlcyvA&oe=61E0C1A6">
+  <img align="right" alt="Arturo-Cartoon" height="150" src="https://user-images.githubusercontent.com/68920446/148715703-e261ed6a-86e3-43b4-9244-84a4fcd7d473.png"/>
 </div>
   
   ##
@@ -33,8 +33,16 @@
   <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <!-- LINKED IN -->
   <a href="https://www.linkedin.com/in/arturo-alfredo-mora-perez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+   
+  <div align="center">
+     <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&color=%23008FFF&size=24&center=true&width=438&height=60&lines=Happy+to+help+with+everything.+;%F0%9F%98%84%E2%9C%8C%F0%9F%8F%BD%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB"/> 
+   </div>
  
 </div>
   
@@ -80,3 +88,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 -->
+<!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
