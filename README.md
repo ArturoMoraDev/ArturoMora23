@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/ArturoMora21">
   <img height="180em" width="400px" src="https://arturomora21-github-readme-stats.vercel.app/api?username=ArturoMora21&show_icons=true&theme=radical" alt="AnhellO :: Profile Stats" />
-  <img height="180em" width="400px" src="arturomora21-github-readme-stats.vercel.app/api/top-langs/?username=ArturoMora21&langs_count=10&theme=radical&layout=compact" alt="ArturoMora.21 :: Top Langs" />
+  <img height="180em" width="400px" src="https://arturomora21-github-readme-stats.vercel.app/api/top-langs/?username=ArturoMora21&langs_count=10&theme=radical&layout=compact" alt="ArturoMora.21 :: Top Langs" />
 </div>
   
 <div style="display: inline_block"><br>
